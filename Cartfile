@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" "dev"
-github "LoopKit/dexcom-share-client-swift" "dev"
+github "LoopKit/LoopKit" "iob-rounding"
+github "amdee1/dexcom-share-client-swift" "iob-rounding"
